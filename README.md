@@ -33,9 +33,13 @@ These labs were completed as part of my IAM learning path and focus on real-worl
   *Starting May 2026*
 
 ---
+## 📜 Certification Roadmap
 
-## 📜 Certifications (Planned)
-- CompTIA Security+ (Planned)
+- CompTIA Security+ (In Progress)
+- SC-900: Security, Compliance & Identity Fundamentals (Future)
+- AZ-900: Azure Fundamentals (Future)
+- SC-300: Identity & Access Administrator (Future)
+
 
 ---
 
