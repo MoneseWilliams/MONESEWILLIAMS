@@ -1,4 +1,50 @@
-## Hi there 👋
+## Hi, I’m Monese 👋
+
+🎓 Information Technology student  
+🔐 Aspiring Identity & Access Management (IAM) professional  
+☁️ Currently learning Microsoft Entra ID (Azure AD) and identity security fundamentals  
+
+---
+
+## 🧪 IAM Labs (Hands-On)
+These labs were completed as part of my IAM learning path and focus on real-world identity and access scenarios.
+
+- **Lab 1: User & Group Management**
+  - Created users and security groups in Microsoft Entra ID  
+  - Assigned users to groups to support role-based access  
+  - Applied least privilege principles  
+
+- **Lab 2: Role Assignments & Access Control**
+  - Managed directory roles and permissions  
+  - Moved users between roles to reduce over-privileged access  
+  - Documented access decisions and security impact  
+
+- **Lab 3: Conditional Access & MFA**
+  - Configured Conditional Access policies  
+  - Enforced Multi-Factor Authentication (MFA)  
+  - Evaluated access outcomes and security posture  
+
+---
+
+## 🎓 Education
+- **Associate Degree in Information Technology**  
+  *Expected April 2026*
+- **Bachelor’s Degree in Information Technology**  
+  *Starting May 2026*
+
+---
+
+## 📜 Certifications (Planned)
+- CompTIA Security+ (Planned)
+
+---
+
+## 🌱 Currently Learning
+- Identity & Access Management (IAM) concepts  
+- Microsoft Entra ID fundamentals  
+- Access governance basics  
+- Security best practices in cloud environments  
+
 
 <!--
 **MoneseWilliams/MONESEWILLIAMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
