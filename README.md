@@ -2,7 +2,8 @@
 
 🎓 Information Technology student  
 🔐 Aspiring Identity & Access Management (IAM) professional  
-☁️ Currently learning Microsoft Entra ID (Azure AD) and identity security fundamentals  
+☁️ Currently learning Microsoft Entra ID (Azure AD) and identity security fundamentals 
+💻 Currently learning PKI and taking a 6 month cohort
 
 ---
 
