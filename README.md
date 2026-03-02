@@ -1,10 +1,11 @@
-## Hi, I’m Monese 👋
+Hi, I’m Monese 👋
 
 🎓 Information Technology student  
 🔐 Aspiring Identity & Access Management (IAM) professional  
-☁️ Currently learning Microsoft Entra ID (Azure AD) and identity security fundamentals
-💻 Currently learning PKI and taking a 6 month cohort
 
+📚 Currently learning:
+- Microsoft Entra ID (Azure AD) and identity security fundamentals  
+- Public Key Infrastructure (PKI) through a 6-month cohort
 ---
 
 ## 🧪 IAM Labs (Hands-On)
